@@ -1,2 +1,2 @@
 # Coursera-Angular
-Coursera Angular Repo
+Coursera Angular Repository
